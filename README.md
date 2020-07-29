@@ -1,4 +1,4 @@
-# introduction
+# Smart_parking_lot
 Arduino Uno를 활용한 스마트 주차장 시스템
 
 # function
